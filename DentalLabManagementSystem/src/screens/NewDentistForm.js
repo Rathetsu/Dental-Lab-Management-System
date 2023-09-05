@@ -15,7 +15,7 @@ const NewDentistForm = () => {
 
 	const goBack = () => {
 		// navigation logic
-	};
+	};	
 
 	return (
 		<View style={styles.container}>
